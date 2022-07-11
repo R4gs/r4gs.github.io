@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Pseudo Random Cyber"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "R4gs"
-description              : "A blog for me to post about experiences and things that interest me in an effort to learn more."
+name                     : "Kurt Loudermilk - R4gs"
+description              : "A blog for me to post about experiences and things that interest me in an effort to further my own understanding."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "R4gs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A blog for me to post about experiences and things that interest me in an effort to learn more."
+  bio              : "A blog for me to post about experiences and things that interest me in an effort to further my own understanding."
   location         : "Alexandria, VA"
   email            : iamr4gs@gmail.com
   links:
