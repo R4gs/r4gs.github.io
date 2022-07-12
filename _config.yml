@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 # Site Settings
 locale                   : "en-US"
 title                    : "Pseudo-Random Cyber"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kurt Loudermilk - R4gs"
+name                     : "Kurt Loudermilk | R4gs"
 description              : "A blog for me to post about experiences and things that interest me in an effort to further my own understanding."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
