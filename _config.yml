@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home | Pseudo-Random Cyber"
+title                    : "Home"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Pseudo-Random Cyber"
 name                     : "Kurt Loudermilk"
 description              : "A pseudo random blog where I will post whatever might interest me at the time to reinforce my own understanding."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
