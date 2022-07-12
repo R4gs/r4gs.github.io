@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kurt Loudermilk | R4gs"
+  name             : "R4gs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A blog for me to post about experiences and things that interest me in an effort to further my own understanding."
+  bio              : "Personal experiences, topics of interest, scripts and code - all in an effort to further my own understanding."
   location         : "Alexandria, VA"
-  email            : 
+  email            : "iamr4gs@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
