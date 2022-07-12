@@ -3,4 +3,4 @@ title: "About"
 permalink: /about/
 ---
 
-Gonna be blank for now.
+			Gonna be blank for now.
